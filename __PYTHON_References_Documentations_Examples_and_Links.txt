@@ -34,6 +34,24 @@ http://trac.mystic.cacr.caltech.edu/project/mystic/wiki.html
 mysctic documentation:
 https://mystic.readthedocs.io/en/latest/
 
+cvxopt - Python software for Convex Optimization:
+http://cvxopt.org/index.html
+https://picos-api.gitlab.io/picos/
+Interior-point methods for large scale cone programming: http://www.seas.ucla.edu/~vandenbe/publications/mlbook.pdf
+CVXOPT linear and quadratic cone program solvers: http://www.seas.ucla.edu/~vandenbe/publications/coneprog.pdf
+
+
+Textbook for convex optimization by Boyd & Vandenberghe: 
+https://web.stanford.edu/~boyd/cvxbook/
+
+CVX: Matlab Software for Disciplined Convex Programming
+http://cvxr.com/cvx/
+
+Convex optimization, for everyone:
+https://www.cvxpy.org/
+https://www.cvxpy.org/index.html
+https://www.cvxpy.org/examples/index.html
+
 
 
 
