@@ -1,0 +1,41 @@
+<2020-02-15> CodeRoninSY
+
+Python References and Examples
+
+*. 1D examples of various hydrodynamics techniques:
+https://github.com/python-hydro/hydro_examples
+
+*. 1D Second-order Non-linear Convection-Diffusion - Burgers’ Equation
+http://www.bcamath.org/projects/NUMERIWAVES/Burgers_Equation_M_Landajuela.pdf
+http://www.thevisualroom.com/burgers_equation.html
+https://people.sc.fsu.edu/~jburkardt/py_src/burgers_solution/burgers_solution.html
+https://github.com/williamBartos/PythonCFD
+https://www.clawpack.org/gallery/pyclaw/gallery/burgers_1d.html
+https://lrhgit.github.io/tkt4140/allfiles/digital_compendium/._main021.html
+https://lrhgit.github.io/tkt4140/allfiles/digital_compendium/main.html
+
+*. Clawpack
+http://www.clawpack.org/
+
+*. Lorena Barba - CFD
+https://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/
+
+*. Jupyter Notebook Themes:
+https://github.com/dunovank/jupyter-themes
+
+*. Optimization methods
+Modern optimization methods in Python - Scipy 2017
+https://www.youtube.com/watch?v=geFER2oVvvU&t=25s
+Michael McKerns github: https://github.com/mmckerns
+
+mystic: a framework for highly-constrained non-convex optimization and uncertainty quantification:
+http://trac.mystic.cacr.caltech.edu/project/mystic/wiki.html
+
+mysctic documentation:
+https://mystic.readthedocs.io/en/latest/
+
+
+
+
+
+
